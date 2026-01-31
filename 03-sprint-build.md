@@ -8,10 +8,10 @@
 
 ---
 
-## Start a Ticket
+## Pick a Ticket
 
 ```
-What's the next ticket in my Linear sprint?
+Show me my highest-priority open ticket in Linear.
 
 Show me the title, description, and acceptance criteria.
 ```
@@ -41,7 +41,7 @@ Did we meet all of them? What's missing?
 
 ```
 Mark [ticket title] as Done in Linear.
-What's the next ticket in my sprint?
+What's my next highest-priority open ticket?
 ```
 
 ---
