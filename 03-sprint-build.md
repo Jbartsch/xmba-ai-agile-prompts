@@ -8,14 +8,6 @@
 
 ---
 
-## Pick a Ticket
-
-```
-Show me my highest-priority open ticket in Linear.
-
-Show me the title, description, and acceptance criteria.
-```
-
 ## Build a Ticket
 
 ```
@@ -44,7 +36,7 @@ What's my next highest-priority open ticket?
 ## The Rhythm
 
 ```
-Pick → Build → Check → Done → Next
+Build → Check → Done → Next
 ```
 
 One ticket at a time. Finish it before starting the next.
