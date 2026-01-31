@@ -8,42 +8,34 @@
 
 ---
 
-## Build a Ticket
+## Start the Sprint
 
 ```
-Build the feature described in [issue ID, e.g. ABC-12].
+Fetch all my Urgent and High priority tickets from Linear.
 
-Use a clean, modern design. Don't add any features not in the ticket.
-```
+Plan the build order — what should we build first based on
+dependencies and what will show the most progress fastest?
 
-Copy the issue ID from the Linear UI (e.g. `ABC-12`). The MCP fetches the title, description, and acceptance criteria automatically.
+Then start building the first ticket.
+Use a clean, modern design. Don't add any features not in the tickets.
 
-## Check Your Work
-
-```
-Check [issue ID] — did we meet all the acceptance criteria? What's missing?
-```
-
-## Mark It Done
-
-```
-Mark [issue ID] as Done in Linear.
-What's my next highest-priority open ticket?
+After each ticket:
+1. Review your work against the acceptance criteria
+2. If everything passes, mark it as Done in Linear
+3. Move on to the next ticket
 ```
 
 ---
 
 ## The Rhythm
 
-```
-Build → Check → Done → Next
-```
+One prompt kicks off the sprint. Replit works through your tickets in order.
 
-One ticket at a time. Finish it before starting the next.
+Review each feature as it's built. Redirect if needed. Let it keep going.
 
 ## Tips
 
-- **Your ticket IS your prompt.** The MCP pulls the full ticket — description, acceptance criteria, priority. You just reference the issue ID.
-- **One change at a time.** Don't ask Replit to build 5 things at once.
+- **Your tickets ARE your prompts.** The MCP pulls the full ticket — description, acceptance criteria, priority. No copy-pasting needed.
+- **Redirect, don't restart.** If something's off, tell Replit what to fix before it moves to the next ticket.
 - **When stuck for more than 10 minutes:** screenshot what you have, start a new Replit Agent conversation, paste the screenshot + describe the one thing you need to change.
-- **If Replit builds something wrong:** start a new conversation. Long conversations accumulate confusion.
+- **If Replit builds something completely wrong:** start a new conversation. Long conversations accumulate confusion.
