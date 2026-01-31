@@ -62,6 +62,35 @@ Today we make two connections:
 - **Claude + Linear** (morning) — AI reads your whiteboard photo and creates tickets
 - **Replit + Linear** (afternoon) — AI reads your tickets and builds the features
 
+## Beyond the Workshop: Secret Sauce
+
+The prompts above get you through today. Here's what separates people who keep building from people who stop after the workshop.
+
+### APIs are your superpower
+
+Most useful apps don't exist in isolation — they talk to other services. Weather data, payments, maps, email, AI models — all available through APIs (Application Programming Interfaces). An API is just a way for one piece of software to ask another piece of software to do something.
+
+**Why this matters for you:** The moment you can connect your app to an API, you go from "toy project" to "real product." A restaurant finder that actually shows real reviews. A travel planner that pulls real flight prices. A dashboard that shows real data.
+
+### How to work with APIs (use AI to help)
+
+You don't need to understand the technical details. You need to know three things:
+
+1. **Find the API.** Ask Claude or ChatGPT: *"I want my app to [do X]. What API should I use? Is there a free tier?"*
+
+2. **Get the API key.** Most APIs require a key (like a password). Ask AI: *"Walk me step by step through getting an API key for [service]. I've never done this before."* The AI will guide you through the signup and where to find the key.
+
+3. **Connect it.** Tell Replit Agent: *"Connect to the [service] API using this key: [paste key]. Then [describe what you want]."* The agent handles the code.
+
+**Common free APIs to know about:**
+- **OpenAI / Anthropic** — AI features in your app (chat, summaries, analysis)
+- **Google Maps** — locations, directions, place search
+- **Stripe** — payments (test mode is free)
+- **Supabase** — database + authentication (free tier)
+- **Resend / SendGrid** — sending emails
+
+**The pattern:** Find the API, get the key, tell the AI agent to use it. That's it. This one skill turns a demo into a product.
+
 ## Resources
 
 - [Tom Blomfield / YC: Vibe Coding Best Practices](https://www.youtube.com/watch?v=BJjsfNO5JTo)
