@@ -5,7 +5,7 @@
 **What you need:**
 - A clear photo of your whiteboard
 - Your MVP goal sentence from the whiteboard
-- Your Linear project name
+- Your Linear workspace set up
 
 ---
 
@@ -23,7 +23,7 @@ Please:
    - A description of what needs to be built
    - 2-3 acceptance criteria (how do we know it's done?)
 3. Mark the ones we circled as high priority
-4. Create all of these as Linear issues in the project [project name]
+4. Create all of these as Linear issues in my workspace
 ```
 
 ---

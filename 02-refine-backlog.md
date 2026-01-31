@@ -4,14 +4,14 @@
 
 **What you need:**
 - A populated Linear board (from Prompt 1)
-- Your Linear project name
+- A populated Linear board (tickets visible)
 
 ---
 
 ## The Prompt
 
 ```
-Look at my Linear backlog for [project name].
+Look at my Linear backlog.
 
 Please help me refine it:
 

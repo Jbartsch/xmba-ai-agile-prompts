@@ -16,7 +16,7 @@ These prompts follow the workflow of the day:
 **Morning (Claude + Linear):**
 1. Create a Linear workspace at [linear.app](https://linear.app) (free)
 2. Open [claude.ai](https://claude.ai) > Settings > Integrations > Connect Linear
-3. Test: ask Claude "List my Linear projects"
+3. Test: ask Claude "Show my Linear backlog"
 
 **Afternoon (Replit + Linear):**
 1. Open your Replit project
