@@ -19,28 +19,23 @@ Show me the title, description, and acceptance criteria.
 ## Build a Ticket
 
 ```
-Build this feature: [ticket title]
+Build the feature described in [issue ID, e.g. ABC-12].
 
-Here's what it should do:
-[paste ticket description]
-
-Acceptance criteria:
-[paste acceptance criteria]
-
-Use a clean, modern design. Don't add any features I didn't ask for.
+Use a clean, modern design. Don't add any features not in the ticket.
 ```
+
+Copy the issue ID from the Linear UI (e.g. `ABC-12`). The MCP fetches the title, description, and acceptance criteria automatically.
 
 ## Check Your Work
 
 ```
-Show me the acceptance criteria for [ticket title].
-Did we meet all of them? What's missing?
+Check [issue ID] — did we meet all the acceptance criteria? What's missing?
 ```
 
 ## Mark It Done
 
 ```
-Mark [ticket title] as Done in Linear.
+Mark [issue ID] as Done in Linear.
 What's my next highest-priority open ticket?
 ```
 
@@ -56,7 +51,7 @@ One ticket at a time. Finish it before starting the next.
 
 ## Tips
 
-- **Your ticket IS your prompt.** The description + acceptance criteria give you 80% of what you need. Just add visual details (colors, layout, style).
+- **Your ticket IS your prompt.** The MCP pulls the full ticket — description, acceptance criteria, priority. You just reference the issue ID.
 - **One change at a time.** Don't ask Replit to build 5 things at once.
 - **When stuck for more than 10 minutes:** screenshot what you have, start a new Replit Agent conversation, paste the screenshot + describe the one thing you need to change.
 - **If Replit builds something wrong:** start a new conversation. Long conversations accumulate confusion.
