@@ -27,7 +27,7 @@ Prompts for the xMba "Agile Work & Vibe Coding" workshop.
 
 ## What is MCP?
 
-MCP (Model Context Protocol) is like a USB port for AI. You "plug in" a tool (like Linear), and the AI can use it directly — creating tickets, reading your backlog, updating status — all through conversation.
+MCP (Model Context Protocol) lets AI tools talk directly to other apps. Connect Linear to Claude, and Claude can create tickets, read your backlog, and update status — all through conversation. No copy-pasting between tools.
 
 Today we make two connections:
 - **Claude + Linear** (morning) — AI reads your whiteboard photo and creates tickets
