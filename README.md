@@ -82,7 +82,7 @@ You don't need to understand the technical details. You need to know three thing
 
 3. **Connect it.** Tell Replit Agent: *"Connect to the [service] API using this key: [paste key]. Then [describe what you want]."* The agent handles the code.
 
-**Common free APIs to know about:**
+**Common APIs to know about:**
 - **OpenAI / Anthropic** — AI features in your app (chat, summaries, analysis)
 - **Google Maps** — locations, directions, place search
 - **Stripe** — payments (test mode is free)
