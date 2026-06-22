@@ -50,7 +50,7 @@ The workshop follows a full agile sprint in one day. These prompts guide each ph
 4. Test: ask Claude "Show my Linear backlog"
 
 **Afternoon (Replit + Linear):**
-1. Open your Replit project (from Day 6, or start a new one)
+1. Login to replit using the google login
 2. Click Integrations (puzzle piece icon) > Connect Linear
 3. Test: type `/linear Show my backlog` in the Replit Agent chat
 
